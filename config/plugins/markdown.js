@@ -53,7 +53,7 @@ export const markdownLib = markdownIt({
       widths: [440, 880, 1024],
       urlPath: "/assets/images/",
       outputDir: "./dist/assets/images/",
-      formats: ["webp", "jpeg"],
+      formats: ["avif", "jpeg"],
     },
     globalAttributes: {
       loading: "lazy",

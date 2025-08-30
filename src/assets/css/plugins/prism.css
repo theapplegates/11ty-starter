@@ -8,13 +8,14 @@ pre,
 code {
   color: #c5c8c6;
   background: #1d1f21;
-  font-family: Inconsolata, Monaco, Consolas, "Courier New", Courier, monospace;
+  font-family: "Wotfard";
 }
 
 :not(pre) > code {
   padding: 0.125em 0.25em;
   border-radius: 0.3em;
   white-space: normal;
+  font-family: "Wotfard";
 }
 
 code[class*="language-"],
