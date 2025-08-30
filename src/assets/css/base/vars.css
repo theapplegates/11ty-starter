@@ -12,6 +12,7 @@
  */
 
 :root {
+  --app-font-stack: "Wotfard";
   --border-radius-default: 4px;
 
   --spacing-small: var(--spectrum-spacing-100);

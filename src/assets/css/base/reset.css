@@ -36,7 +36,7 @@
 
 :where(body) {
   line-height: inherit;
-  font-family: system-ui, sans-serif;
+  font-family: "Wotfard";
   -webkit-font-smoothing: antialiased;
 }
 
